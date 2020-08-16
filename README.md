@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This is the final assignment for the IBM data science course.
+
+This is the final assignment of IBM data science course .
